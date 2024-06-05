@@ -14,9 +14,3 @@ To run this project, you need:
 - PHP installed on your server or local machine
 - Composer (for dependency management)
 
-## Installation
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/php-email-sending.git
-cd php-email-sending
